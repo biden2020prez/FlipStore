@@ -1,1 +1,2 @@
-[buttonMapper](https://onedrive.live.com/download?cid=B67CB79B6FA6AD52&resid=B67CB79B6FA6AD52%21124&authkey=AKKRTY8MzZzwg6c)
+[2048 Game](https://github.com/biden2020prez/FlipStore/files/9283012/2048.zip)
+[AirBattery.zip](https://github.com/biden2020prez/FlipStore/files/9283038/AirBattery.zip)

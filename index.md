@@ -1,3 +1,3 @@
-[2048 Game](https://objects.githubusercontent.com/github-production-repository-file-5c1aeb/522299612/9283012?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220808%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220808T161358Z&X-Amz-Expires=300&X-Amz-Signature=f19b7d62950c9e2fa55b9771c19db925999d5920ad9b8bd4f3162e50626daed2&X-Amz-SignedHeaders=host&actor_id=106286969&key_id=0&repo_id=522299612&response-content-disposition=attachment%3Bfilename%3D2048.zip&response-content-type=application%2Fx-zip-compressed) <br/>
+[2048 Game](https://apps4flip.nyc3.cdn.digitaloceanspaces.com/airbattery.apk) <br/>
 [AirBattery](https://github.com/biden2020prez/FlipStore/files/9283038/AirBattery.zip) <br/>
 [forums](https://forums.apps4flip.com/d/36-apps4flip-forum-app/5)
